@@ -1,0 +1,19 @@
+{
+  "name": "cssg-profile-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-up/CSSG-profile-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x-up/CSSG-profile-page/issues"
+  },
+  "homepage": "https://github.com/x-up/CSSG-profile-page#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

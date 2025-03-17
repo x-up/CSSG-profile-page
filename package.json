@@ -1,19 +1,16 @@
 {
-  "name": "cssg-profile-page",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server/server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/x-up/CSSG-profile-page.git"
+  "name": "instagram",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/x-up/CSSG-profile-page/issues"
-  },
-  "homepage": "https://github.com/x-up/CSSG-profile-page#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.2.2"
   }
 }
